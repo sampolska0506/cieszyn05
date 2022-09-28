@@ -1,0 +1,40 @@
+body{
+    background-color: wheat;
+    color: rgb(137, 69, 69);
+}
+
+tr{
+    width: 100%;
+}
+
+        
+a{
+    text-decoration: none;
+    color: rgb(108, 30, 54);
+    font-size: 70px;
+}
+h1{text-align: center;
+    font-size: 200px;}
+
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+
+table{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+p{
+    font-size: 30px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
